@@ -1,4 +1,4 @@
-# useful-tools-for-students--Java
+# useful-tools-for-students
 # Programming Languages Overview
 
 A collaborative guide by - [Gilbert Mungai], [Emma Kariuki], [Finah Mitchelle], [Alice Wanjiku], [Antony juma](https://github.com/itskaysir), [NancyNdungu], [Kennedy_Frazier].
